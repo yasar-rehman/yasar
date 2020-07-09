@@ -1,6 +1,5 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-baseurl: /yasar
 permalink: /blog/:year/:month/:day/:title
 gems: ['jekyll-github-metadata']
 
