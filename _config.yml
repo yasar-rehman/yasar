@@ -1,7 +1,6 @@
-name: Hank Quinlan, Horrible Cop
+name: yasar
 markdown: kramdown
 url: https://yasar-rehman.github.io
 baseurl: /yasar #NO TRAILING SLASH
 permalink: /blog/:year/:month/:day/:title
-gems: ['jekyll-github-metadata']
 theme: jekyll-theme-minimal
