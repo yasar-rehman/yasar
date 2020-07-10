@@ -6,6 +6,6 @@ title: yasar's publications
 	
 
 	  {% for post in site.publications %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="/yasar{{ publication.url }}" title="{{ publication.title }}">{{ publication.title }}</a></li>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="/yasar{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
