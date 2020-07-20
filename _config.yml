@@ -1,5 +1,6 @@
 name: yasar
 markdown: kramdown
 permalink: /yasar/:title
+permalink: /yasar/blog/
 theme: jekyll-theme-minimal
 future: true
