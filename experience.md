@@ -1,6 +1,6 @@
 
 
-<body>
+
 <h1 style="color:black; font-size:18px";"margin-bottom:3px"; "margin-top:0px"> 
 Algorithm Specialist at TCL Corporate Research (HK), Ltd. Hong Kong  
 </h1>
@@ -45,4 +45,3 @@ Visiting Lecturer at Department of Mathematics, City University of Science and I
 December 2012 to May 2015 
 </p>
 
-</body>
