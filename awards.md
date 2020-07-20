@@ -1,0 +1,67 @@
+<body>
+	<h1 style="color:black;font-size:25px"> 
+Gold Medal 
+</h1>
+<p style="color : blue; font-size : 18px">
+Program:  B.Sc Electrical Engineering (Telecommunication) <br>
+Session: 2008-2012 <br>
+City University of Science and Information Technology (CUSIT), Pakistan
+</p>
+
+<h1 style="color:black;font-size:25px"> 
+Bronze Medal 
+</h1>
+<p style="color : blue; font-size : 18px">
+Program:  M.Sc Electrical Engineering <br>
+Session: 2013-2015 <br>
+National University of Computer and Emerging Sciences (NUCES), Pakistan
+</p>
+
+<h1 style="color:black;font-size:25px"> 
+Full-time PhD Studentship
+</h1>
+<p style="color : blue; font-size : 18px">
+Program:  Ph.D. Electrical Engineering <br>
+Session: 2016-2019 <br>
+City University of Hong Kong, Hong Kong
+</p>
+
+<h1 style="color:black;font-size:25px"> 
+Best Academic Performance Award
+</h1>
+<p style="color:blue;font-size:18px">
+Program:  Ph.D. Electrical Engineering <br>
+Year: 2017-2018 <br>
+City University of Hong Kong, Hong Kong
+</p>
+
+<h1 style="color:black;font-size:25px"> 
+Research Tuition Scholarship
+</h1>
+<p style="color : blue; font-size : 18px">
+Program:  Ph.D. Electrical Engineering <br>
+Year:: 2018-2019 <br>
+City University of Hong Kong, Hong Kong
+</p>
+
+
+
+<h1 style="color:black; font-size:25px">
+Grants
+</h1>
+<p style="color:blue; font-size:18px"> 
+			National ICT R&D Funds (2011-2012)<br>
+            Project: Intelligent Traffic Control System<br> 
+            Funding Organization: National ICT R&D Funds<br>
+            Program: National Grassroots ICT Research Initiative<br> 
+            Funding Amount: PK- Rs. 65,000/-<br>
+</p>
+<p style="color:blue; font-size:18px">
+			National ICT R&D Funds (2015-2016)<br>
+            Project: Object Localization and Tracking Using PAN/TILT Camera<br>
+            Funding Organization: National ICT R&D Funds<br>
+            Program: National Grassroots ICT Research Initiative <br>
+            Funding Amount: PK- Rs. 74,040/-<br>
+</p>
+
+</body>
