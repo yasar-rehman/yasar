@@ -1,6 +1,3 @@
-layout: default
-title: publications
-permalink: /yasar-publications/
 
 <body>
 <p>
