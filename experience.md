@@ -18,10 +18,8 @@ Teaching Assistant at Department of Electrical Engineering, City University of H
 </h1>
 <p style="color:blue; font-size:16px">
 September 2016 to September 2019 
-
-- Assisted <a href="http://www.ee.cityu.edu.hk/~lmpo/index.html"> Dr. L. M Po <a/> in a course on
-		<a href="http://www.ee.cityu.edu.hk/~lmpo/ee5806/index.html"> Topics of Image Processing<a/> 
-</p>
+  <ul style="list-style-type:disc">
+	<li>Assisted <a href="http://www.ee.cityu.edu.hk/~lmpo/index.html"> Dr. L. M Po <a/> in a course on <a href="http://www.ee.cityu.edu.hk/~lmpo/ee5806/index.html"> Topics of Image Processing<a/> </li> </ul> </p>
 
 <h1 style="color:black; font-size:18px"> 
 Lab Engineer at Department of Electrical Engineering, City University of Science and Information Technology
