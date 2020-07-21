@@ -1,7 +1,7 @@
 
 
 
-<h1 style="color:black; font-size:18px";"margin-bottom:3px"; "margin-top:0px"> 
+<h1 style="color:black; font-size:18px"> 
 Algorithm Specialist at TCL Corporate Research (HK), Ltd. Hong Kong  
 </h1>
 <p style="color:blue; font-size:16px">
