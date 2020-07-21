@@ -1,6 +1,6 @@
 
 
-
+<body>
 <h1 style="color:black; font-size:18px"> 
 Algorithm Specialist at TCL Corporate Research (HK), Ltd. Hong Kong  
 </h1>
@@ -19,9 +19,10 @@ Teaching Assistant at Department of Electrical Engineering, City University of H
 </h1>
 <p style="color:blue; font-size:16px">
 September 2016 to September 2019 
-<ul> 
+<ul style="list-style-type:disc"> 
 <li> Assisted <a href="http://www.ee.cityu.edu.hk/~lmpo/index.html"> Dr. L. M Po <a/> in a course on 
- <a href="http://www.ee.cityu.edu.hk/~lmpo/ee5806/index.html"> Topics of Image Processing<a/> </li>
+ <a href="http://www.ee.cityu.edu.hk/~lmpo/ee5806/index.html"> Topics of Image Processing<a/> 
+</li>
 </ul>
 </p>
 
@@ -45,3 +46,4 @@ Visiting Lecturer at Department of Mathematics, City University of Science and I
 December 2012 to May 2015 
 </p>
 
+</body>
