@@ -4,7 +4,7 @@
 <h1 style="color:black; font-size:18px";"margin-bottom:3px"; "margin-top:0px"> 
 Algorithm Specialist at TCL Corporate Research (HK), Ltd. Hong Kong  
 </h1>
-<p style="color:blue; font-size:16px";"margin-top:0px">
+<p style="color:blue; font-size:16px">
 October 2019-now
  <ul style="list-style-type:disc">
 	<li>Responsible for algorithms design, development, training/testing, and delivery.</li>
