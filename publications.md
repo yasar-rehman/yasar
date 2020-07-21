@@ -3,7 +3,8 @@
 <p>
 <h1 style="color:black; font-size:25px"> Journal Publications </h1>
 <ol type="1">
-<li>Data-level Information Enhancement: Motion-patch-based Siamese Convolutional Neural Networks for Human Activity Recognition in Videos <br>
+<li><a href="https://ieeexplore.ieee.org/document/9116942">LinCos-Softmax: Learning Angle-Discriminative Face Representations With Linearity-Enhanced Cosine Logits</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417420300294">Data-level Information Enhancement: Motion-patch-based Siamese Convolutional Neural Networks for Human Activity Recognition in Videos</a> <br>
 Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, Yuzhi Zhao <br>
 Expert Systems with Applications (Impact Factor: 4.292)</li>
 
