@@ -2,3 +2,4 @@
 
 -<a href="https://www.google.com/url?q=http%3A%2F%2Fcolah.github.io%2Fposts%2F2015-08-Understanding-LSTMs%2F&sa=D"> Understanding Long Short Term Memory (LSTM) Networks by Christopher Olah </a>
 **************************************************************************************************************************************************************************
+
