@@ -47,11 +47,12 @@ Mengyang Liu, Lai Man Po, Yasar Abbas Ur Rehman, Xuyuan Xu, Yuming Li, Litong Fe
 Multimedia Tools and Applications (Impact Factor: 2.101) </li>
 
 
-<li><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7482640&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7482640">
+<li><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7482640&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7482640"> 
 A Novel Energy Efficient Object Detection and Image Transmission Approach for Wireless Multimedia Sensor Networks
 </a> <br>
 Yasar Abbas Ur Rehman, Muhammad Tariq, and Takuro Sato  <br>
-(IEEE Sensors Journal, Vol. 16, No. 5, pp:5942-5949)  (Impact Factor: 2.617) </li>
+(IEEE Sensors Journal, Vol. 16, No. 5, pp:5942-5949)  (Impact Factor: 2.617) </li><br>
+ <a href="https://ieee-sensors.org/sensors-journal/25-most-accessed-articles/50-most-accessed-papers-2016-monthly-archive/50-most-accessed-articles-jul-2016/"> (included as the 50 most accessed article in 2016)</a>
 
 <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141558">
 Improved Object Localization using Accurate Distance Estimation in Wireless Multimedia Sensor Networks
