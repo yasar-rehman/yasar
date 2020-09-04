@@ -135,7 +135,7 @@ nav ul li a:hover {
 
 @media screen and (max-width: 400px) {
   nav ul {
-    text-align: center;
+    text-align: left;
   }
   nav ul li {
     margin: 20px;
