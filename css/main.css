@@ -37,7 +37,7 @@ nav ul li a:hover {
 
 /* about me */
 
-#welcome-section {
+.welcome_section {
   top: 20;
   line-height: 1.6;
   background: #F5F5F5;
