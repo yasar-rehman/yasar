@@ -16,10 +16,10 @@ body {
  nav ul {
   position: fixed;
   text-align: right;
-  width: 70%;
+  width: 100%;
   background-color: #Fff;
   font-family: "comfortaa",sans-serif; 
-  font-size: 1em; 
+  font-size: 0.5em; 
 }
 
 nav ul li {
