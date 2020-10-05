@@ -63,8 +63,12 @@ nav ul li a:hover {
   background-color: #dcdcdc;
 }
 
-  
-/* the projects section */
+/* the projects section*/  
+.project{
+  padding-top: 80px;
+  padding-bottom: 10px;
+  background-color: #dcdcdc;
+}
 
 .work {
   padding-top: 60px;
