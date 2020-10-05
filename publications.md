@@ -1,5 +1,6 @@
 
 <body>
+ <div class="publication">
 <p>
 <h1 style="color:black; font-size:25px"> Journal Publications </h1>
 <ol type="1">
@@ -94,4 +95,5 @@ Yasar Abbas Ur Rehman, Adam Khan, Muhammad Tariq   <br>
 
 
 </p>
+</div>
 </body> 
