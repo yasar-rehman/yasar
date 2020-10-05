@@ -56,6 +56,14 @@ nav ul li a:hover {
   text-align: 
 }
 
+/* the publication section */
+.publication{
+  padding-top: 10px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  background-color: #dcdcdc;
+}
+
   
 /* the projects section */
 
