@@ -1,5 +1,6 @@
 
 <body>
+  <div class ="project">
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
 <p align="justify"> <a href="https://sites.google.com/site/yasarabbas772/home"> Yasar Abbas Ur Rehman </a> ,
@@ -41,4 +42,5 @@ efficiency and an error ratio of 0.01 (around 1 ft) when compared to other popul
 <hr style="border: 1px solid gray;"/>
 
 </p>
+</div>
 </body>
