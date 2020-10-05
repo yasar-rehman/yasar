@@ -1,6 +1,6 @@
 
 <body>
-  <div class ="project">
+  <div class ="project_section">
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
 <p align="justify"> <a href="https://sites.google.com/site/yasarabbas772/home"> Yasar Abbas Ur Rehman </a> ,
