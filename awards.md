@@ -1,4 +1,5 @@
 <body>
+	<div class="project_section">
 	<h1 style="color:black;font-size:25px"> 
 Gold Medal 
 </h1>
@@ -63,5 +64,5 @@ Grants
             Program: National Grassroots ICT Research Initiative <br>
             Funding Amount: PK- Rs. 74,040/-<br>
 </p>
-
+</div>
 </body>
