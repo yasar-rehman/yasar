@@ -41,5 +41,5 @@ Visiting Lecturer at Department of Mathematics, City University of Science and I
 <p style="color:blue; font-size:16px">
 December 2012 to May 2015 
 </p>
-</div>
+
 
