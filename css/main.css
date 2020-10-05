@@ -73,6 +73,12 @@ nav ul li a:hover {
   background-color: #FFFFFF;
 }
 
+<style>
+.font-custom{
+font-size=20px;
+}
+</style>
+
 .work {
   padding-top: 60px;
   margin-top: -60px;
