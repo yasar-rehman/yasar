@@ -50,17 +50,10 @@ nav ul li a:hover {
   line-height: 1.6;
   background: #F5F5F5;
   min-height: 55vh;
-  padding-top: 10vh;
+  padding-top: 0vh;
   text-align: 
 }
-.welcome_section {
-  top: 20;
-  line-height: 1.6;
-  background: #F5F5F5;
-  min-height: 55vh;
-  padding-top: 20vh;
-  text-align: 
-}
+
   
 /* the projects section */
 
