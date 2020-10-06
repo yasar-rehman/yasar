@@ -1,5 +1,5 @@
 <body>
-	<div class="project_section">
+	<div>
 	<h1 style="color:black;font-size:25px"> 
 Gold Medal 
 </h1>
