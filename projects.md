@@ -15,8 +15,16 @@ technique for training deep models on small face anti-spoofing datasets, the des
 and real world images, the design of stereo-imaging technique for face PAD, and the design of perturbation layer for inducing the information of
 hand-crafted features in the deep feature maps.       
 </p>
-<img src="images/image.png" style="width:600px;" alt="">
-
+<div class="row">
+<div class=col-md-4">
+  <div><img class="img-responsive" src="images/cnn_algo1.jpg" alt="" style="width:240px;height:240px;"> </div> </div>
+<div class=col-md-4">
+  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div> </div>
+<div class=col-md-4">
+  <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:240px;height:240px;"> </div> </div>
+<div class=col-md-4">
+  <div><img class="img-responsive" src="images/paper3.png" alt="" style="width:240px;height:240px;"> </div> </div>   
+ </div>
 
 <hr style="border: 1px solid gray;" />
 <h2> Energy Efficiency and Object Tracking in Wireless Multimedia Sensor Networks</h2>
