@@ -15,7 +15,7 @@ technique for training deep models on small face anti-spoofing datasets, the des
 and real world images, the design of stereo-imaging technique for face PAD, and the design of perturbation layer for inducing the information of
 hand-crafted features in the deep feature maps.       
 </p>
-<img src="images/cnn_algo1.jpg" style="width:600px;" alt="">
+<img src="images/image.png" style="width:600px;" alt="">
 
 
 <hr style="border: 1px solid gray;" />
