@@ -5,12 +5,6 @@ title: yasar
 
 <body>
   
-<div class="row">
-	<!-- Entries Column -->
-		     <div class=col-md-4 pull-left">
-               		 <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>Yasar Abbas Ur Rehman</b></div><br>
-			  <div><img class="img-responsive" src="images/my_profile.jpg" alt="" style="width:240px;height:240px;">
-			  </div><br>
   
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
@@ -27,7 +21,7 @@ and real world images, the design of stereo-imaging technique for face PAD, and 
 hand-crafted features in the deep feature maps.       
 </p> 
 
-
+ <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;">
 
 <hr style="border: 1px solid gray;" />
 <h2> Energy Efficiency and Object Tracking in Wireless Multimedia Sensor Networks</h2>
