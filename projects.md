@@ -17,12 +17,10 @@ The proposed models include the design of randomization
 technique for training deep models on small face anti-spoofing datasets, the design of fusion layer for merging the neural network generated images 
 and real world images, the design of stereo-imaging technique for face PAD, and the design of perturbation layer for inducing the information of
 hand-crafted features in the deep feature maps.       
-</p>
+</p> 
 
-  
-<div class="col-md-3">
-  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div> </div>
-</div>
+  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div>
+
 
 
 <hr style="border: 1px solid gray;" />
