@@ -17,13 +17,13 @@ hand-crafted features in the deep feature maps.
 </p>
 <div class="row">
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/cnn_algo1.jpg" alt="" style="width:240px;height:240px;"> </div> </div>
+  <div><img class="img-responsive" src="images/cnn_algo1.jpg" alt="" style="width:120px;height:120px;"> </div> </div>
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div> </div>
+  <div><img class="img-responsive" src="images/image.png" alt="" style="width:120px;height:120px;"> </div> </div>
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:240px;height:240px;"> </div> </div>
+  <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:120px;height:120px;"> </div> </div>
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/paper3.png" alt="" style="width:240px;height:240px;"> </div> </div>   
+  <div><img class="img-responsive" src="images/paper3.png" alt="" style="width:120px;height:120px;"> </div> </div>   
  </div>
 
 <hr style="border: 1px solid gray;" />
