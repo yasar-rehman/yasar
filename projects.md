@@ -1,4 +1,8 @@
-<body>
+---
+layout: default
+title: yasar
+---
+
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
 <p align="justify"> <a href="https://sites.google.com/site/yasarabbas772/home"> Yasar Abbas Ur Rehman </a> ,
@@ -16,7 +20,7 @@ hand-crafted features in the deep feature maps.
 <div class="row">
   
 <div class="col-md-3">
-  <div><img class="img-responsive" src="images/my_profile.jpg" alt="" style="width:240px;height:240px;"> </div>  </div>
+  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div>  </div>
 <div class="col-md-3">
   <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:240px;height:240px;"> </div> </div>
 <div class="col-md-3">
@@ -49,4 +53,4 @@ efficiency and an error ratio of 0.01 (around 1 ft) when compared to other popul
 </p>
 <hr style="border: 1px solid gray;"/>
 </p>
-</body>
+
