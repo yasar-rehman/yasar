@@ -1,4 +1,3 @@
-
 <body>
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
@@ -16,13 +15,13 @@ hand-crafted features in the deep feature maps.
 </p>
 <div class="row">
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/cnn_algo1.jpg" alt="" style="width:25%"> </div> </div>
+  <div><img class="img-responsive" src="images/cnn_algo1.jpg" alt="" > </div> </div>
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/image.png" alt="" style="width:25%"> </div> </div>
+  <div><img class="img-responsive" src="images/image.png" alt=""> </div> </div>
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:25%"> </div> </div>
+  <div><img class="img-responsive" src="images/paper2.png" alt="" > </div> </div>
 <div class=col-md-4">
-  <div><img class="img-responsive" src="images/paper3.png" alt="" style="width:25%"> </div> </div>   
+  <div><img class="img-responsive" src="images/paper3.png" alt="" > </div> </div>   
  </div>
 
 <hr style="border: 1px solid gray;" />
@@ -50,6 +49,5 @@ efficiency and an error ratio of 0.01 (around 1 ft) when compared to other popul
 
 </p>
 <hr style="border: 1px solid gray;"/>
-
 </p>
 </body>
