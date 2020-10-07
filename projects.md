@@ -14,13 +14,13 @@ and real world images, the design of stereo-imaging technique for face PAD, and 
 hand-crafted features in the deep feature maps.       
 </p>
 <div class="row">
-<div class=col-md-3">
+<div class="col-md-3">
   <img class="img-responsive" src="images/cnn_algo1.jpg" alt="" style="width:60px;height:60px; />  </div>
-<div class=col-md-3">
+<div class="col-sm-3">
   <img class="img-responsive" src="images/image.png" alt="" style="width:60px;height:60px;/>  </div>
-<div class=col-md-3">
+<div class="col-md-3">
   <img class="img-responsive" src="images/paper2.png" alt="" style="width:60px;height:60px; /> </div>
-<div class=col-md-3">
+<div class="col-md-3">
   <img class="img-responsive" src="images/paper3.png" alt=""  style="width:60px;height:60px;/>  </div>   
  </div>
 
