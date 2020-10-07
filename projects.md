@@ -2,7 +2,8 @@
 layout: default
 title: yasar
 ---
-
+<div class="row">
+  
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
 <p align="justify"> <a href="https://sites.google.com/site/yasarabbas772/home"> Yasar Abbas Ur Rehman </a> ,
@@ -17,10 +18,10 @@ technique for training deep models on small face anti-spoofing datasets, the des
 and real world images, the design of stereo-imaging technique for face PAD, and the design of perturbation layer for inducing the information of
 hand-crafted features in the deep feature maps.       
 </p>
-<div class="row">
+
   
 <div class="col-md-3">
-  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div>  </div>
+  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div> </div>
 <div class="col-md-3">
   <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:240px;height:240px;"> </div> </div>
 <div class="col-md-3">
