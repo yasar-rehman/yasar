@@ -1,7 +1,4 @@
----
-layout: default
-title: yasar
----
+
 <div class="row">
   
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
