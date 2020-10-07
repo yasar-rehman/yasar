@@ -16,11 +16,11 @@ hand-crafted features in the deep feature maps.
 <div class="row">
   
 <div class="col-md-3">
-  <div><img class="img-responsive" src="images/image.png" alt=""> </div>  </div>
+  <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;"> </div>  </div>
 <div class="col-md-3">
-  <div><img class="img-responsive" src="images/paper2.png" alt=""> </div> </div>
+  <div><img class="img-responsive" src="images/paper2.png" alt="" style="width:240px;height:240px;"> </div> </div>
 <div class="col-md-3">
-  <div><img class="img-responsive" src="images/paper3.png" alt=""> </div> </div>   
+  <div><img class="img-responsive" src="images/paper3.png" alt="" style="width:240px;height:240px;"> </div> </div>   
  </div>
 
 <hr style="border: 1px solid gray;" />
