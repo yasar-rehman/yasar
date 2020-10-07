@@ -21,7 +21,7 @@ and real world images, the design of stereo-imaging technique for face PAD, and 
 hand-crafted features in the deep feature maps.       
 </p> 
 
- <div><img class="img-responsive" src="images/image.png" alt="" style="width:240px;height:240px;">
+ <div><img class="img-responsive" src="{{ site.baseurl }}/images/image.png" alt="" style="width:240px;height:240px;">
 
 <hr style="border: 1px solid gray;" />
 <h2> Energy Efficiency and Object Tracking in Wireless Multimedia Sensor Networks</h2>
