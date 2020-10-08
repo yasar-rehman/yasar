@@ -94,12 +94,12 @@ Yasar Abbas Ur Rehman, Adam Khan, Muhammad Tariq   <br>
 <h1 style="color:black; font-size:25px">Under Review/Submitted</h1>
 <ul>
 <li> Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning <br>
-     (Status: Under Review) <\li>
+     (Status: Under Review) </li>
  <li> A Novel Edge-based Left Ventricle Segmentation Method Using Deep Reinforcement Learning <br>
-     (Status: Under Review) <\li>
+     (Status: Under Review) </li>
   <li> SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network <br>
-     (Status: Under Review) <\li>
-  <\ul>
+     (Status: Under Review) </li>
+  </ul>
 
 </p>
 </div>
