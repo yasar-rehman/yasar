@@ -1,3 +1,8 @@
+---
+layout: default
+title: yasar
+---
+
 
 div<class='row'>
  div<class='md-col-2'>
