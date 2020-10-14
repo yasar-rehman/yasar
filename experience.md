@@ -5,9 +5,9 @@ title: yasar
 
 
 <div class="row">
- <div class="md-col-2">
+ <div class="md-col-2 pull-left">
 2019-Current	Algorithm Specialist </div>
- <div class="md-col-2">
+ <div class="md-col-2 pull-right">
 TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
 Responsible for algorithms design, development, training/testing, and delivery.
 Research and Develop deep learning techniques on Neural Networks compression and accelerating.
