@@ -1,45 +1,42 @@
 
 
-<h1 style="color:black; font-size:18px"> 
-Algorithm Specialist at TCL Corporate Research (HK), Ltd. Hong Kong  
-</h1>
-<p style="color:blue; font-size:16px">
-October 2019-now
- <ul style="list-style-type:disc">
-	<li>Responsible for algorithms design, development, training/testing, and delivery.</li>
-	<li>Research and Develop deep learning techniques on Neural Networks compression and accelerating.</li>
-	<li>Help the algorithm team to improve the performance and computational speed of algorithms.</li>
-	<li>Research and Develop TCL Deep Learning Inference Platform for various applications</li>
-</ul>
-</p>
+2019-Current	Algorithm Specialist
+TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
+	Responsible for algorithms design, development, training/testing, and delivery.
+	Research and Develop deep learning techniques on Neural Networks compression and accelerating.
+	Help the algorithm team to improve the performance and computational speed of algorithms.
+	Research and Develop TCL Deep Learning Inference Platform for various applications.
 
-<h1 style="color:black; font-size:18px"> 
-Teaching Assistant at Department of Electrical Engineering, City University of Hong Kong
-</h1>
-<p style="color:blue; font-size:16px">
-September 2016 to September 2019 </p>
+2016-2019	Teaching Assistant 
+ Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China
+	Assisting faculty members in the following undergraduate and postgraduate courses.
+•	Topics in Image Processing (Grader)
+•	Mobile Applications Design and Development (Grader)
+•	Signals and Systems (Grader)
+	Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects related to face recognition and face liveness detection systems
 
-- Assisted <a href="http://www.ee.cityu.edu.hk/~lmpo/index.html"> Dr. L. M Po <a/> in a course on <a href="http://www.ee.cityu.edu.hk/~lmpo/ee5806/index.html"> Topics of Image Processing<a/> 
+2013-2016 	Lab Engineer
+Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT), Peshawar, Pakistan 
+	Worked as a demonstrator in Linear Control Systems Lab for 3 years.
+	Worked as a demonstrator in Optical Fiber Communication Lab, Digital Signal Processing Lab, and Microprocessor-Based Systems Lab.
+	Co-supervised undergraduate final year projects.
+	Administrative Work (Departmental Coordinator):
+	Plan and execute routine academic activities.
+	Analyze, draft, and disseminate departmental requirements to the Head of Department.
+	Plan and execute the semester course plan according to the Higher Education Commission (HEC), Pakistan guidelines, and disseminating the same to the departmental faculty and staff before the start of the semester.
+	Plan, draft, and scheduled different industrial visits of students.
+	Solve student queries about various academic issues.
+	Analyze semester results and tabulate the subjects having low-grade results.
+	Draft various seminars, workshops, and student activities for the monthly E-bulletin of the university.
 
-<h1 style="color:black; font-size:18px"> 
-Lab Engineer at Department of Electrical Engineering, City University of Science and Information Technology
-</h1>
-<p style="color:blue; font-size:16px">
-May 2013 to August 2016 
-</p>
+2012-2016 	Visiting Lecturer
+Department of Mathematics, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan
+	Taught a course on Programming with MATLAB to M.Sc. Mathematics students for 3 semesters.
 
-<h1 style="color:black; font-size:18px"> 
-Teaching Assistant  at Department of Electrical Engineering, City University of Science and Information Technology
-</h1>
-<p style="color:blue; font-size:16px">
-October 2012 to May 2013 
-</p>
-
-<h1 style="color:black; font-size:18px"> 
-Visiting Lecturer at Department of Mathematics, City University of Science and Information Technology
-</h1>
-<p style="color:blue; font-size:16px">
-December 2012 to May 2015 
-</p>
+2012-2013 	Teaching Assistant
+ Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan
+	Assisted Dean of Engineering in his academic work
+	Weekly checking of quizzes and assignments
+	Preparation and delivery of tutorials classes
 
 
