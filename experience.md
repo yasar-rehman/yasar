@@ -18,7 +18,7 @@ Research and Develop TCL Deep Learning Inference Platform for various applicatio
        </div>
   </div>
  </div>
- <!--> .................................................................................................................................>
+
  
 <div class="row">
  <div class="col-md-4 pull-left">
@@ -56,18 +56,37 @@ Department of Electrical Engineering, City University of Science and Information
 	Solve student queries about various academic issues.
 	Analyze semester results and tabulate the subjects having low-grade results.
 	Draft various seminars, workshops, and student activities for the monthly E-bulletin of the university.
+</div>
+</div>
+</div>
 
-2012-2016 	Visiting Lecturer
+<div class="row">
+  <div class="col-md-4 pull-left">
+   <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2012-2016 	Visiting Lecturer</b>
+    </div>
+   </div>
+  <div class="col-md-8 pull-right">
+      <div style="margin-top:3%; text-align:justify;">
 Department of Mathematics, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan
 	Taught a course on Programming with MATLAB to M.Sc. Mathematics students for 3 semesters.
-
-2012-2013 	Teaching Assistant
+       </div>
+   </div>
+ </div>
+ 
+<div class="row">
+  <div class="col-md-4 pull-left">
+   <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2012-2013 	Teaching Assistant</b>
+    </div>
+   </div>
+ <div class="col-md-8 pull-right">
+      <div style="margin-top:3%; text-align:justify;">
  Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan
-	Assisted Dean of Engineering in his academic work
-	Weekly checking of quizzes and assignments
-	Preparation and delivery of tutorials classes
-</div>
-</div>
-</div>
+Assisted Dean of Engineering in his academic work
+Weekly checking of quizzes and assignments
+Preparation and delivery of tutorials classes
+       </div>
+  </div>
+ </div>
+
 
 
