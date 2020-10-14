@@ -5,9 +5,11 @@ title: yasar
 
 
 <div class="row">
- <div class="md-col-4 pull-left">
-2019-Current	Algorithm Specialist </div>
- <div class="md-col-8 pull-right">
+ <div class="col-md-4 pull-left">
+   <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2019-Current	Algorithm Specialist</b> </div>
+
+ </div>
+ <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
        TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
         Responsible for algorithms design, development, training/testing, and delivery.
