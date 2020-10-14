@@ -1,5 +1,5 @@
 
-<div class="project_section">
+
 <h1 style="color:black; font-size:18px"> 
 Algorithm Specialist at TCL Corporate Research (HK), Ltd. Hong Kong  
 </h1>
