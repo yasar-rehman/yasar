@@ -4,8 +4,8 @@ title: yasar
 ---
 
 
-div<class='row'>
- div<class='md-col-2'>
+<div class="row">
+ <div class="md-col-2">
 2019-Current	Algorithm Specialist
 TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
 Responsible for algorithms design, development, training/testing, and delivery.
