@@ -33,7 +33,7 @@ title: yasar
       <div style="margin-top:3%; text-align:justify;">
  <b>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China</b><br>
 <ul>
-Assisting faculty members in the following undergraduate and postgraduate courses.
+Assisted faculty members in the following undergraduate and postgraduate courses.
 <li>Topics in Image Processing (Grader)</li>
 <li>Mobile Applications Design and Development (Grader)</li>
 <li>Signals and Systems (Grader)</li>
@@ -51,18 +51,22 @@ Assisting faculty members in the following undergraduate and postgraduate course
    </div>
  <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
-Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT), Peshawar, Pakistan 
-	Worked as a demonstrator in Linear Control Systems Lab for 3 years.
-	Worked as a demonstrator in Optical Fiber Communication Lab, Digital Signal Processing Lab, and Microprocessor-Based Systems Lab.
-	Co-supervised undergraduate final year projects.
-	Administrative Work (Departmental Coordinator):
-	Plan and execute routine academic activities.
-	Analyze, draft, and disseminate departmental requirements to the Head of Department.
-	Plan and execute the semester course plan according to the Higher Education Commission (HEC), Pakistan guidelines, and disseminating the same to the departmental faculty and staff before the start of the semester.
-	Plan, draft, and scheduled different industrial visits of students.
-	Solve student queries about various academic issues.
-	Analyze semester results and tabulate the subjects having low-grade results.
-	Draft various seminars, workshops, and student activities for the monthly E-bulletin of the university.
+<b>Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT), Peshawar, Pakistan </b>
+<ul>
+<li>Worked as a demonstrator in Linear Control Systems Lab for 3 years.</li>
+<li>Worked as a demonstrator in Optical Fiber Communication Lab, Digital Signal Processing Lab, and Microprocessor-Based Systems Lab.</li>
+<li>Co-supervised undergraduate final year projects.</li>
+ </ul>
+       <ul>
+<b>Administrative Work (Departmental Coordinator):</b>
+<li>Plan and execute routine academic activities.</li>
+<li>Analyze, draft, and disseminate departmental requirements to the Head of Department.</li>
+<li>Plan and execute the semester course plan according to the Higher Education Commission (HEC), Pakistan guidelines, and disseminating the same to the departmental faculty and staff before the start of the semester.</li>
+<li>Plan, draft, and scheduled different industrial visits of students.</li>
+<li>Solve student queries about various academic issues.</li>
+<li>Analyze semester results and tabulate the subjects having low-grade results.</li>
+<li>Draft various seminars, workshops, and student activities for the monthly E-bulletin of the university.</li>
+        </ul>
 </div>
 </div>
 </div>
@@ -75,8 +79,10 @@ Department of Electrical Engineering, City University of Science and Information
    </div>
   <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
-Department of Mathematics, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan
-	Taught a course on Programming with MATLAB to M.Sc. Mathematics students for 3 semesters.
+<b>Department of Mathematics, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan </b>
+<ul>
+<li>Taught a course on Programming with MATLAB to M.Sc. Mathematics students for 3 semesters.</li>
+ </ul>
        </div>
    </div>
  </div>
@@ -89,10 +95,12 @@ Department of Mathematics, City University of Science and Information Technology
    </div>
  <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
- Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan
-Assisted Dean of Engineering in his academic work
-Weekly checking of quizzes and assignments
-Preparation and delivery of tutorials classes
+ <b>Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT) Peshawar, Pakistan</b>
+<ul>
+<li>Assisted Dean of Engineering in his academic work</li>
+<li>Weekly checking of quizzes and assignments</li>
+<li>Preparation and delivery of tutorials classes</li>
+ </ul>
        </div>
   </div>
  </div>
