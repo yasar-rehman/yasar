@@ -37,7 +37,7 @@ Assisting faculty members in the following undergraduate and postgraduate course
 <li>Topics in Image Processing (Grader)</li>
 <li>Mobile Applications Design and Development (Grader)</li>
 <li>Signals and Systems (Grader)</li>
-<li>Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects related to face recognition and face liveness detection systems<li>
+<li>Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects related to face recognition and face liveness detection systems</li>
  </ul>
        </div>
  </div>
