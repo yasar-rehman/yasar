@@ -6,7 +6,8 @@ title: yasar
 
 <div class="row">
  <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2019-Current	Algorithm Specialist</b> </div>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2019-Current<br> 	
+    Algorithm Specialist</b> </div>
  </div>
  <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
@@ -22,7 +23,8 @@ Research and Develop TCL Deep Learning Inference Platform for various applicatio
  
 <div class="row">
  <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2016-2019	Teaching Assistant</b> 
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2016-2019<br>
+    Teaching Assistant</b> 
   </div>
  </div> 
   <div class="col-md-8 pull-right">
@@ -39,7 +41,8 @@ Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects rel
 
 <div class="row">
   <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2013-2016 	Lab Engineer</b>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2013-2016<br>
+    Lab Engineer</b>
     </div>
    </div>
  <div class="col-md-8 pull-right">
@@ -62,7 +65,8 @@ Department of Electrical Engineering, City University of Science and Information
 
 <div class="row">
   <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2012-2016 	Visiting Lecturer</b>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2012-2016<br> 	
+    Visiting Lecturer</b>
     </div>
    </div>
   <div class="col-md-8 pull-right">
@@ -75,7 +79,8 @@ Department of Mathematics, City University of Science and Information Technology
  
 <div class="row">
   <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2012-2013 	Teaching Assistant</b>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2012-2013<br>
+    Teaching Assistant</b>
     </div>
    </div>
  <div class="col-md-8 pull-right">
