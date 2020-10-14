@@ -31,12 +31,14 @@ title: yasar
  </div> 
   <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
- Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China
+ <b>Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China</b><br>
+<ul>
 Assisting faculty members in the following undergraduate and postgraduate courses.
-•	Topics in Image Processing (Grader)
-•	Mobile Applications Design and Development (Grader)
-•	Signals and Systems (Grader)
-Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects related to face recognition and face liveness detection systems
+<li>Topics in Image Processing (Grader)</li>
+<li>Mobile Applications Design and Development (Grader)</li>
+<li>Signals and Systems (Grader)</li>
+<li>Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects related to face recognition and face liveness detection systems<li>
+ </ul>
        </div>
  </div>
  </div>
