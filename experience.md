@@ -16,15 +16,23 @@ title: yasar
         Research and Develop deep learning techniques on Neural Networks compression and accelerating.
         Help the algorithm team to improve the performance and computational speed of algorithms.
 Research and Develop TCL Deep Learning Inference Platform for various applications.
+       </div>
  
 
-2016-2019	Teaching Assistant 
+<div class="col-md-4 pull-left">
+   <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2016-2019	Teaching Assistant</b> </div>
+
+ </div> 
+  <div class="col-md-8 pull-right">
+      <div style="margin-top:3%; text-align:justify;">
  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China
 	Assisting faculty members in the following undergraduate and postgraduate courses.
 •	Topics in Image Processing (Grader)
 •	Mobile Applications Design and Development (Grader)
 •	Signals and Systems (Grader)
 	Co-supervised two M.Sc Students, with my advisor Dr. Lai Man Po, in projects related to face recognition and face liveness detection systems
+       </div>
+ </div>
 
 2013-2016 	Lab Engineer
 Department of Electrical Engineering, City University of Science and Information Technology, (CUSIT), Peshawar, Pakistan 
