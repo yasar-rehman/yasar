@@ -11,11 +11,13 @@ title: yasar
  </div>
  <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
-       TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
-        Responsible for algorithms design, development, training/testing, and delivery.
-        Research and Develop deep learning techniques on Neural Networks compression and accelerating.
-        Help the algorithm team to improve the performance and computational speed of algorithms.
-Research and Develop TCL Deep Learning Inference Platform for various applications.
+      <b>TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China</b> <br>
+       <ul>
+        <li>Responsible for algorithms design, development, training/testing, and delivery.</li>
+        <li>Research and Develop deep learning techniques on Neural Networks compression and accelerating.</li>
+       <li>Help the algorithm team to improve the performance and computational speed of algorithms.</li>
+        <li>Research and Develop TCL Deep Learning Inference Platform for various applications.</li>
+        </ul>
        </div>
   </div>
  </div>
