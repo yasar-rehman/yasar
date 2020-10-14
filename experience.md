@@ -8,13 +8,14 @@ title: yasar
  <div class="md-col-4 pull-left">
 2019-Current	Algorithm Specialist </div>
  <div class="md-col-8 pull-right">
-TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
-Responsible for algorithms design, development, training/testing, and delivery.
-Research and Develop deep learning techniques on Neural Networks compression and accelerating.
-Help the algorithm team to improve the performance and computational speed of algorithms.
+      <div style="margin-top:3%; text-align:justify;">
+       TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
+        Responsible for algorithms design, development, training/testing, and delivery.
+        Research and Develop deep learning techniques on Neural Networks compression and accelerating.
+        Help the algorithm team to improve the performance and computational speed of algorithms.
 Research and Develop TCL Deep Learning Inference Platform for various applications.
- </div>
-</div>
+ 
+
 2016-2019	Teaching Assistant 
  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China
 	Assisting faculty members in the following undergraduate and postgraduate courses.
@@ -46,5 +47,6 @@ Department of Mathematics, City University of Science and Information Technology
 	Assisted Dean of Engineering in his academic work
 	Weekly checking of quizzes and assignments
 	Preparation and delivery of tutorials classes
-
+</div>
+</div>
 
