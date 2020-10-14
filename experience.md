@@ -7,7 +7,6 @@ title: yasar
 <div class="row">
  <div class="col-md-4 pull-left">
    <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2019-Current	Algorithm Specialist</b> </div>
-
  </div>
  <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
@@ -17,11 +16,11 @@ title: yasar
         Help the algorithm team to improve the performance and computational speed of algorithms.
 Research and Develop TCL Deep Learning Inference Platform for various applications.
        </div>
+  </div>
  
-
-<div class="col-md-4 pull-left">
+<div class="row">
+ <div class="col-md-4 pull-left">
    <div style="font-family: 'Oswald', sans-serif; font-size: 26px;"><b>2016-2019	Teaching Assistant</b> </div>
-
  </div> 
   <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
