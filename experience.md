@@ -1,14 +1,13 @@
 
-div<class="row">
-div<class="md-col-2">
-
+div<class='row'>
+ div<class='md-col-2'>
 2019-Current	Algorithm Specialist
 TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China
 Responsible for algorithms design, development, training/testing, and delivery.
 Research and Develop deep learning techniques on Neural Networks compression and accelerating.
 Help the algorithm team to improve the performance and computational speed of algorithms.
 Research and Develop TCL Deep Learning Inference Platform for various applications.
-</div>
+ </div>
 </div>
 2016-2019	Teaching Assistant 
  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, SAR China
