@@ -17,7 +17,7 @@ Unsupervised Adversarial Domain Adaptation for Cross-Domain Face Presentation At
 </div>
 
 <div class="row">
-  <b>My reading<\b>
+  <b>My reading</b>
   <div class="col-md-2 pull-left">
     <ul>
    <li> <div style="font-family: 'Oswald', sans-serif; font-size: 15px"> <a href="https://arxiv.org/pdf/1909.11065.pdf">Object-Contextual Representations for Semantic
