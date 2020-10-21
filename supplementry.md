@@ -15,7 +15,7 @@ CompactNet: learning a compact space for face presentation attack detection (Li)
 Leveraging Shape, Reflectance and Albedo From Shading for Face Presentation Attack Detection (Pinto)<br/>
 Unsupervised Adversarial Domain Adaptation for Cross-Domain Face Presentation Attack Detection (Wang)<br/>
 </div>
-
+************************************************************************************************************************************************************************** <br/>
 <div class="row">
   <div class="col-md-2 pull-left">
     <div style="font-family: 'Oswald', sans-serif; font-size: 15px"><b>My reading</b> </div>
