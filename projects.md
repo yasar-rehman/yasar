@@ -4,7 +4,21 @@ title: yasar
 ---
 
 <body>
-  
+<h2> Image Colorization with Generative Adversarial Networks</h2>
+<p> 
+<a href="https://yasar-rehman.github.io/yasar/"> Yasar Abbas Ur Rehman,  </a>
+<a href="https://github.com/zhaoyuzhi"> Yuzhi Zhao </a>
+<p align="justify"> 
+Given a grayscale photograph, the colorization system estimates a visually plausible colorful image. Conventional methods often use semantics to colorize grayscale images. However, in these methods, only classification semantic information is embedded, resulting in semantic confusion and color bleeding in the final colorized image. To address these issues, we propose a fully automatic Saliency Map-guided Colorization with Generative Adversarial Network (SCGAN) framework. It jointly predicts the colorization and saliency map to minimize semantic confusion and color bleeding in the colorized image. Since the global features from pre-trained VGG-16-Gray network are embedded to the colorization encoder, the proposed SCGAN can be trained with much less data than state-of-the-art methods to achieve perceptually reasonable colorization. In addition, we propose a novel saliency map-based guidance method. Branches of the colorization decoder are used to predict the saliency map as a proxy target. Moreover, two hierarchical discriminators are utilized for the generated colorization and saliency map, respectively, in order to strengthen visual perception performance. The proposed system is evaluated on ImageNet validation set. Experimental results show that SCGAN can generate more reasonable colorized images than state-of-the-art techniques.
+
+</p>
+<div class="row">
+ <div><img class="img-responsive" src="{{ site.baseurl }}/images/representative_image.jpg" alt="" style="width:240px;height:240px;"> </div> </div>
+<hr style="border: 1px solid gray;"/>
+</p>
+
+ 
+
   
 <h2>Face Anti-Spoofing via Convolutional Neural Networks</h2>
 
