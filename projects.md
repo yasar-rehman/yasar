@@ -13,7 +13,7 @@ Given a grayscale photograph, the colorization system estimates a visually plaus
 
 </p>
 <div class="row">
- <div><img class="img-responsive" src="{{ site.baseurl }}/images/representative_image.jpg" alt="" style="width:540px;height:240px;"> </div> </div>
+ <div><img class="img-responsive" src="{{ site.baseurl }}/images/representative_image.jpg" alt="" style="width:1000px;height:500px;"> </div> </div>
 <hr style="border: 1px solid gray;"/>
 </p>
 
