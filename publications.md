@@ -4,6 +4,9 @@
 <p>
 <h1 style="color:black; font-size:25px"> Journal Publications </h1>
 <ol type="1">
+ <li>Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning <br>
+ Weifeng Ou, Lai Man Po, Cheng Zhou, Yasar Abbas Ur Rehman, Pengfei Xian, Yujia Zhang <br>
+ Expert Systems with Applications (Accepted for Publication)</li>
 <li><a href="https://ieeexplore.ieee.org/document/9116942">LinCos-Softmax: Learning Angle-Discriminative Face Representations With Linearity-Enhanced Cosine Logits</a><br>
 Weifeng Ou, Lai Man Po, Cheng Zhou, Yujia Zhang, Litong Feng, Yasar Abbas Ur Rehman, Yuzhi Zhao<br>
 IEEE Access</li>
