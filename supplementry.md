@@ -22,6 +22,8 @@ Unsupervised Adversarial Domain Adaptation for Cross-Domain Face Presentation At
     <ul>
    <li> <div style="font-family: 'Oswald', sans-serif; font-size: 10px"> <a href="https://arxiv.org/pdf/1909.11065.pdf">Object-Contextual Representations for Semantic
 Segmentation</a> </div> </li>
+    <li> <div style="font-family: 'Oswald', sans-serif; font-size:10px"> <a href="https://arxiv.org/pdf/2001.05566.pdf">Image Segmentation Using Deep Learning:
+A Survey </a> </div> </li>
       </ul>
     </div>
   </div>
