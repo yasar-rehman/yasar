@@ -1,15 +1,13 @@
 
 <body>
 <div>
-<p>
- 
 <table border=0 cellpadding=4 cellspacing=0 width=100%>
 			<tr bgcolor="#d8d8d8">
           			<td align="left">
             				<font face="Serif, Times New Roman" size="3" color=""#8da9ca">
         					<b>Journals</b>
         						</font></td></tr></table>
-                                                                             
+<p>                                                                            
 <ol type="1" style="font-family: 'Serif',Times New Roman;">
  <li>Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning <br>
  Weifeng Ou, Lai Man Po, Cheng Zhou, Yasar Abbas Ur Rehman, Pengfei Xian, Yujia Zhang <br>
@@ -75,6 +73,7 @@ Yasar Abbas Ur Rehman, Muhammad Tariq, Omar Khan   <br>
 PLoS ONE 10(11): e0141558. doi: 10.1371/journal.pone.0141558 (Impact Factor: 2.766) </li>
 
 </ol>
+</p>
 
 <table border=0 cellpadding=4 cellspacing=0 width=100%>
 			<tr bgcolor="#d8d8d8">
@@ -122,6 +121,6 @@ Yasar Abbas Ur Rehman, Adam Khan, Muhammad Tariq   <br>
      (Status: Under Review) </li>
   </ul>
 
-</p>
+
 </div>
 </body> 
