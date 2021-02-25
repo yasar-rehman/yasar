@@ -1,6 +1,6 @@
 
 <body>
-<div style="font-family:'Serif', Times New Roman;">
+<div class="project_section">
 <p>
 <h1 style="color:black; font-size:25px"> Journal Publications </h1>
 <ol type="1">
