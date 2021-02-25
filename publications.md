@@ -69,9 +69,9 @@ PLoS ONE 10(11): e0141558. doi: 10.1371/journal.pone.0141558 (Impact Factor: 2.7
 
 </ol>
 
-<h1 style="style="font-family: 'Serif',Times New Roman; color:black; font-size:25px"> Conference Publications </h1>
+<h1 style="font-family: 'Serif',Times New Roman; color:black; font-size:25px"> Conference Publications </h1>
 
-<ol type="1" "style="font-family: 'Serif',Times New Roman;">
+<ol type="1" style="font-family: 'Serif',Times New Roman;">
 <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-20005-3_1">
 Perturbing Convolutional Feature Maps with Histogram of Oriented Gradients for Face Liveness Detection
 </a> <br>
