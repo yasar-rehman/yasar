@@ -3,7 +3,7 @@
 <div>
 <p>
 <h1 style="font-family: 'Serif',Times New Roman; color:black; font-size:25px"> Journal Publications </h1>
-<ol type="1">
+<ol type="1", style="font-family: 'Serif',Times New Roman;">
  <li>Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning <br>
  Weifeng Ou, Lai Man Po, Cheng Zhou, Yasar Abbas Ur Rehman, Pengfei Xian, Yujia Zhang <br>
  Expert Systems with Applications (Accepted for Publication)</li>
