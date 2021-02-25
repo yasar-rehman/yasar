@@ -69,9 +69,9 @@ PLoS ONE 10(11): e0141558. doi: 10.1371/journal.pone.0141558 (Impact Factor: 2.7
 
 </ol>
 
-<h1 style="color:black; font-size:25px"> Conference Publications </h1>
+<h1 style="style="font-family: 'Serif',Times New Roman; color:black; font-size:25px"> Conference Publications </h1>
 
-<ol type="1">
+<ol type="1" "style="font-family: 'Serif',Times New Roman;">
 <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-20005-3_1">
 Perturbing Convolutional Feature Maps with Histogram of Oriented Gradients for Face Liveness Detection
 </a> <br>
@@ -97,8 +97,8 @@ Yasar Abbas Ur Rehman, Adam Khan, Muhammad Tariq   <br>
 (12th IEEE International Bhurban Conference on Applied Sciences and Technology (IBCAST), 2015) </li>
 </ol>
 
-<h1 style="color:black; font-size:25px">Under Review/Submitted</h1>
-<ul>
+<h1 style="font-family: 'Serif',Times New Roman; color:black; font-size:25px">Under Review/Submitted</h1>
+<ul style="font-family: 'Serif',Times New Roman;">
 
  <li> A Novel Edge-based Left Ventricle Segmentation Method Using Deep Reinforcement Learning <br>
      (Status: Under Review) </li>
