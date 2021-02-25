@@ -7,6 +7,9 @@
  <li>Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning <br>
  Weifeng Ou, Lai Man Po, Cheng Zhou, Yasar Abbas Ur Rehman, Pengfei Xian, Yujia Zhang <br>
  Expert Systems with Applications (Accepted for Publication)</li>
+ <li><a href = "https://arxiv.org/pdf/2011.11377.pdf">SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</a><br>
+ Yuzhi Zhao, Lai Man Po, Kwok-Wai Cheung, Win-Yin Yu, Yasar Abbas Ur Rehman<br>
+ IEEE Transactions on Circuits and Systems for Video Technology</li>
 <li><a href="https://ieeexplore.ieee.org/document/9116942">LinCos-Softmax: Learning Angle-Discriminative Face Representations With Linearity-Enhanced Cosine Logits</a><br>
 Weifeng Ou, Lai Man Po, Cheng Zhou, Yujia Zhang, Litong Feng, Yasar Abbas Ur Rehman, Yuzhi Zhao<br>
 IEEE Access</li>
@@ -96,11 +99,8 @@ Yasar Abbas Ur Rehman, Adam Khan, Muhammad Tariq   <br>
 
 <h1 style="color:black; font-size:25px">Under Review/Submitted</h1>
 <ul>
-<li> Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning <br>
-     (Status: Under Review) </li>
+
  <li> A Novel Edge-based Left Ventricle Segmentation Method Using Deep Reinforcement Learning <br>
-     (Status: Under Review) </li>
-  <li> SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network <br>
      (Status: Under Review) </li>
   </ul>
 
