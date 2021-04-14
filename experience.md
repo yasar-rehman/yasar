@@ -14,10 +14,10 @@ title: yasar
    <div style="margin-top:3%; text-align:justify;">
     <b>TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China</b> <br>
        <ul>
-        <li>Work towards long-term ambitious research goals, while identifying intermediate milestones.<li>
-        <li>Lead and contribute to research with other collaborators that can be applied to TCL product development.<li>
-        <li>Contribute to relevant research communities by producing publications and open-sourcing code.<li>
-        <li>Identify productionalization opportunities and prototype cutting-edge technologies for in-house use cases.<li>
+        <li>Work towards long-term ambitious research goals, while identifying intermediate milestones.</li>
+        <li>Lead and contribute to research with other collaborators that can be applied to TCL product development.</li>
+        <li>Contribute to relevant research communities by producing publications and open-sourcing code.</li>
+        <li>Identify productionalization opportunities and prototype cutting-edge technologies for in-house use cases.</li>
         </ul>
        </div>
   </div>
