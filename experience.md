@@ -21,9 +21,10 @@ title: yasar
         </ul>
        </div>
   </div>
+  </div>
    
    
-   
+ <div class="row">
  <div class="col-md-4 pull-left">
    <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2019-2021<br> 	
     Algorithm Specialist</b> </div>
