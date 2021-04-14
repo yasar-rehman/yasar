@@ -8,7 +8,7 @@ title: yasar
    Research Scientst </b> </div>
    </div>
   <div class="col-md-8 pull-right">
-      <div style="text-align:justify;">
+      <div style="margin-top:0%; text-align:justify;">
     <b>TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China</b> <br>
        <ul>
         <li>Work towards long-term ambitious research goals, while identifying intermediate milestones.</li>
