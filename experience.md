@@ -7,7 +7,7 @@ title: yasar
    <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2021-current<br> 	
     Research Scientist-AI/Machine Learning</b> </div>
  </div>
-  div class="col-md-8 pull-right">
+  <div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
       <b>TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China</b> <br>
        <ul>
