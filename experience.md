@@ -3,13 +3,13 @@ layout: default
 title: yasar
 ---
 <div class="row">
- <div clss="col-md-4 pull-left">
-  <div style="margin-top3%; font-family: 'Oswald', san-serif; font-size: 20px;"><b>2021-Currently working<br>
-   Research Scientst </b> </div>
-   </div>
-  <div class="col-md-8 pull-right">
+ <div class="col-md-4 pull-left">
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2021-current<br> 	
+    Research Scientist-AI/Machine Learning</b> </div>
+ </div>
+  div class="col-md-8 pull-right">
       <div style="margin-top:3%; text-align:justify;">
-    <b>TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China</b> <br>
+      <b>TCL Corporate Research (Hong Kong). Co. Limited, Hong Kong, SAR China</b> <br>
        <ul>
         <li>Work towards long-term ambitious research goals, while identifying intermediate milestones.</li>
         <li>Lead and contribute to research with other collaborators that can be applied to TCL product development.</li>
