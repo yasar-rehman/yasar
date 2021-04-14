@@ -6,7 +6,7 @@ title: yasar
 
 <div class="row">
  <div clss="col-md-4 pull-left">
-  <div style="font-family: 'Oswald', san-serif; font-size: 20px;"><b><April,2021-Currently working><br>
+  <div style="font-family: 'Oswald', san-serif; font-size: 20px;"><b>April,2021-Currently working<br>
    Research Scientst </b> </div>
    </div>
   
