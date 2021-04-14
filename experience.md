@@ -6,7 +6,7 @@ title: yasar
 
 <div class="row">
  <div clss="col-md-4 pull-left">
-  <div style="font-family: 'Oswald', san-serif; font-size: 20px;"><b>April,2021-Currently working<br>
+  <div style="font-family: 'Oswald', san-serif; font-size: 20px;"><b>2021-Currently working<br>
    Research Scientst </b> </div>
    </div>
   
@@ -25,7 +25,7 @@ title: yasar
    
    
  <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>Oct,2019-April,2021<br> 	
+   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2019-2021<br> 	
     Algorithm Specialist</b> </div>
  </div>
  <div class="col-md-8 pull-right">
