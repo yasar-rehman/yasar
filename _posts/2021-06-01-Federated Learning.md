@@ -10,4 +10,7 @@ title: Federated Deep Learning
 Federated Learning is an approach where multiple devices (clients) train models (local models) on their on-device data (local data) and communicate only the trained models' parameters to the central server for updating and subsequently downloading the global model (mainly the parameters). 
 
 In federated learning the goal is typically to solve the following equation: <br> 
-<img src="https://latex.codecogs.com/svg.image?\min_{w}f(w)&space;=&space;\sum_{k=1}^{m}p_{k}F_{k}(w)" title="\min_{w}f(w) = \sum_{k=1}^{m}p_{k}F_{k}(w)" />
+<img src="https://latex.codecogs.com/svg.image?\min_{w}f(w)&space;=&space;\sum_{k=1}^{m}p_{k}F_{k}(w)" title="\min_{w}f(w) = \sum_{k=1}^{m}p_{k}F_{k}(w)" /> <br>
+where *m* represents the total number of devices, <img src="https://latex.codecogs.com/svg.image?p_{k}\geq{0}&space;" title="p_{k}\geq{0} " />, and 
+<img src="https://latex.codecogs.com/svg.image?\sum_{k}p_{k}=1" title="\sum_{k}p_{k}=1" />
+
