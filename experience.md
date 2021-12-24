@@ -4,7 +4,7 @@ title: yasar
 ---
 <div class="row">
  <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 12px;"><b>2021-current<br> 	
+   <div style="font-family: 'Oswald', sans-serif; font-size: 15px;"><b>2021-current<br> 	
     Research Scientist-AI/Machine Learning</b> </div>
  </div>
   <div class="col-md-8 pull-right">
@@ -23,7 +23,7 @@ title: yasar
    
  <div class="row">
  <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2019-2021<br> 	
+   <div style="font-family: 'Oswald', sans-serif; font-size: 15px;"><b>2019-2021<br> 	
     Algorithm Specialist</b> </div>
  </div>
  <div class="col-md-8 pull-right">
@@ -42,7 +42,7 @@ title: yasar
  
 <div class="row">
  <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2016-2019<br>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 15px;"><b>2016-2019<br>
     Teaching Assistant</b> 
   </div>
  </div> 
@@ -62,7 +62,7 @@ Assisted faculty members in the following undergraduate and postgraduate courses
 
 <div class="row">
   <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2013-2016<br>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 15px;"><b>2013-2016<br>
     Lab Engineer</b>
     </div>
    </div>
@@ -90,7 +90,7 @@ Assisted faculty members in the following undergraduate and postgraduate courses
 
 <div class="row">
   <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2012-2016<br> 	
+   <div style="font-family: 'Oswald', sans-serif; font-size: 15px;"><b>2012-2016<br> 	
     Visiting Lecturer</b>
     </div>
    </div>
@@ -106,7 +106,7 @@ Assisted faculty members in the following undergraduate and postgraduate courses
  
 <div class="row">
   <div class="col-md-4 pull-left">
-   <div style="font-family: 'Oswald', sans-serif; font-size: 20px;"><b>2012-2013<br>
+   <div style="font-family: 'Oswald', sans-serif; font-size: 15px;"><b>2012-2013<br>
     Teaching Assistant</b>
     </div>
    </div>
